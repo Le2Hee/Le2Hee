@@ -18,6 +18,10 @@
 
 <br />
 <br />
+
+[![Notion Badge](https://img.shields.io/badge/-Notion-1877f2?logo=Notion&logoColor=white&link=#)](#) <!-- 노션 주소 저장하기 -->
+
+<br />
 <br />
 
 <div align="center">
