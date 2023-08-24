@@ -11,8 +11,8 @@
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
   	</div>
 
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le2Hee&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=Le2Hee&show_icons=true">
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcksgml3685&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=dlcksgml3685&show_icons=true">
   
 </body>
 
