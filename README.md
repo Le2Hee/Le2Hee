@@ -8,9 +8,9 @@
 <br />
 
 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml3685)](https://solved.ac/dlcksgml3685)
-
+<div align="center">
+	<img width=500 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml3685">
+</div>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Le2Hee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le2Hee&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
