@@ -12,8 +12,7 @@
   	</div>
 
   	
-   		[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml3685)](https://solved.ac/dlcksgml3685)
+   		[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml3685)](https://solved.ac/dlcksgml3685)
    	
   
 </body>
